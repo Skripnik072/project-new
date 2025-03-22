@@ -17,4 +17,4 @@ def sort_by_date(my_list: list, reverse: bool = True) -> list:
     return sorted_list
 
 
-print()
+print(sort_by_date([{'id': 41428829, 'state': 'CANCELED', 'date': '2019-07-03T18:35:29.512364'}]))
